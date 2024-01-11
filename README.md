@@ -1,2 +1,1 @@
-# strava-clonu-demosu
-# strava-clonu-demosu
+ <img src="strava gif.gif" alt="">
